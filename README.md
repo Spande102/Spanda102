@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Spanda102
-- 🌱 I’m currently learning what on earth coding is
+- 👋 Hi, I’m Spande102
 
-- SwiftUI, Java, Javascript, Python, Html & CSS
+- Java
 
 <!---
 Time
