@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Spande102
+- 👋 Hi!
 
-- Java
+- Java, Python, HTML, Javascript
 
 <!---
 Time
